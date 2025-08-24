@@ -1,4 +1,5 @@
-### 💻 Full Stack Developer
+### 💻 
+developing
 
 My name is Vinicius Ferreira, I'm 20 years old and I'm starting my journey in the world of technology.
 
@@ -12,11 +13,7 @@ My name is Vinicius Ferreira, I'm 20 years old and I'm starting my journey in th
  <br/>
  
 ```bash
-> whoami
-full stack developer
-
 > work --status
-🚀 Building Leilões do Brasil & Solanis.ai & Keys Investimentos
+🚀 under construction
 
-> echo "Innovation distinguishes between a leader and a follower."
  
